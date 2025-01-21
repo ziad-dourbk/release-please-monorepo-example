@@ -1,6 +1,6 @@
 {
   "rust-app": "1.0.0",
   "react-app": "1.0.0",
-  "hello-rust": "0.1.0",
-  "hello-react": "1.0.0"
+  "hello-rust": "0.2.0",
+  "hello-react": "1.1.0"
 }
