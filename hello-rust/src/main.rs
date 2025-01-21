@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    let num: i32 = rng.gen_range(1..=100);
+    println!("Random Number: {}", num);
+
 }
